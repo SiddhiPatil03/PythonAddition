@@ -1,0 +1,7 @@
+
+fastapi
+uvicorn
+pytest
+httpx
+pandas==2.3.3
+evidently==0.7.23
